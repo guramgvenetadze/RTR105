@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  mkdir ManaMape
+    4  ls
+    5  cd ManaMape/
+    6  mkdir ManaApakshMape
+    7  ls -l
+    8  cd...
+    9  rm ManaMape/
+   10  man rm
+   11  rm -r ManaMape/
+   12  ls
+   13  echo "Teksts"
+   14  "Cits teksts"
+   15  man echo
+   16  echo -e "Teksts/nCits teksts"
+   17  echo  "Teksts/nCits teksts"
+   18  "Teksts" > failsl.txt
+   19  ls
+   20  cat failsl.txt
+   21  ls -l
+   22  echo "Citst teksts" > failsl.txt
+   23  cat failsl.txt
+   24  echo "Teksts > failsl.txt
+   25  cat failsl.txt
+   26  ls -l
+   27  chmod 400 failsl.txt
+   28  ls -l failsl.txt
+   29  echo "Vēl viens teksts" >> failsl.txt
+   30  chmod 700 failsl.txt
+   31  lnano failsls.txt
+   32  ls -l
+   33  history > history_2018
+   34  history > history_20180912.txt
